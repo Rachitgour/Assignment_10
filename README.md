@@ -1,2 +1,2 @@
 # Assignment_10
-OPEN CV
+Web Scraping
